@@ -357,6 +357,7 @@ class MyServer(BaseHTTPRequestHandler):
                         </div>
                     </div>
                 </div>
+            </div>
         </main>
     </div>
 
